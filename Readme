@@ -1,0 +1,4 @@
+//On this program, the operator enters 2 strings and one number of operations.
+//The program will make the operations to transform the first string on the second one
+// if the number of operations to execute that is lower or equal of the number of
+// operations that the operator input, the result show yes, if not, the result show no.
